@@ -1,4 +1,4 @@
-# Chatbot! Dora
+# Chatbot! It's Okay
 
 ## Our favorite AI nemesis, HAL9000 vs. Dave Bowman
 

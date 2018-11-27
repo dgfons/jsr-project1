@@ -8,3 +8,4 @@
 // invoke the opening message
 
 // add code
+alert("Hello");
